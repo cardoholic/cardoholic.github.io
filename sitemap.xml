@@ -4,63 +4,63 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2017-07-10T15:35:37-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2017-07-10T15:40:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<lastmod>2017-07-10T15:35:37-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2017-07-10T15:40:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<lastmod>2017-07-10T15:35:37-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2017-07-10T15:40:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2017-07-10T15:35:37-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2017-07-10T15:40:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/pages/Contact me.html</loc>
+<loc>/pages/Contact me.html</loc>
 <lastmod>2017-07-10T15:30:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/my-super-post.html</loc>
+<loc>/my-super-post.html</loc>
 <lastmod>2017-07-10T12:00:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/category/other.html</loc>
+<loc>/category/other.html</loc>
 <lastmod>2017-07-10T12:00:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/smth.html</loc>
+<loc>/tag/smth.html</loc>
 <lastmod>2017-07-10T12:00:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/author/pavel-severilov.html</loc>
+<loc>/author/pavel-severilov.html</loc>
 <lastmod>2017-07-10T12:00:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
